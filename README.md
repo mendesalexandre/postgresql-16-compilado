@@ -1,0 +1,3 @@
+## INSTALAÇÃO DO POSTGRESQL VERSÃO 16 A PARTIR DO CÓDIGO FONTE.
+
+# postgresql-16-compilado
